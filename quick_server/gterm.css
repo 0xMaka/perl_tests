@@ -1,0 +1,32 @@
+body {
+    background-color: #708090;
+    color: #f5f5f5;
+}
+
+h1 {
+    color: #20b2aa;
+}
+
+.root  {
+    color: #f08080;
+    font-weight: bold;
+}
+
+.user {
+    color: #00fa9a;
+    font-weight: bold;
+}
+
+
+.bash {
+    color: #48d1cc;
+    font-weight: bold;
+}
+
+p.head {
+    margin-left: 20px;
+}
+
+p.body {
+    margin-left: 40px;
+}
